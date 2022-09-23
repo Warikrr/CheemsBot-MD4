@@ -1,4 +1,4 @@
-//════════════════════════════//
+.//════════════════════════════//
 //Recode By ArullOfc 
 //© 2022 Xeon Bot Inc. Cheems Bot MD
 //Thank you to Lord Buddha, Family and Myself
